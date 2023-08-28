@@ -1,4 +1,4 @@
-* {
+to* {
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
@@ -121,6 +121,7 @@ ul li span:hover {
     padding: 30px 20px 60px;
 }
   .row {
-    width: 280px;
+    max-width: 200px;
+    overflow: hidden;
   }
 }
